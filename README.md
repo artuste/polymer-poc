@@ -1,1 +1,2 @@
-<h2>Polymer PoC</h2>
+# Polymer PoC
+Basic web application using Polymer.
